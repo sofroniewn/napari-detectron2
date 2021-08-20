@@ -10,26 +10,7 @@ A napari plugin that exposes detectron2 functionality
 
 ----------------------------------
 
-This [napari] plugin was generated with [Cookiecutter] using with [@napari]'s [cookiecutter-napari-plugin] template.
-
-<!--
-Don't miss the full getting started guide to set up your new package:
-https://github.com/napari/cookiecutter-napari-plugin#getting-started
-
-and review the napari docs for plugin developers:
-https://napari.org/docs/plugins/index.html
--->
-
-## Installation
-
-You can install `napari-detectron2` via [pip]:
-
-    pip install napari-detectron2
-
-## Contributing
-
-Contributions are very welcome. Tests can be run with [tox], please ensure
-the coverage at least stays the same before you submit a pull request.
+This project pre-alpha and no version has yet been "released". Although it uses [detectron2](https://github.com/facebookresearch/detectron2) it is not affliated with Detectron2 or FAIR.
 
 ## License
 
